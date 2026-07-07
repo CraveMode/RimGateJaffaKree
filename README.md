@@ -1,5 +1,6 @@
 # RimGateJaffaKree
-
+
+
 ![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Helixien - Xens mod
@@ -10,7 +11,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2018387536
 ![Image](https://i.imgur.com/KFjAmff.png)
 
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+
 
 When I was young, one of my favorite TV Show was Stargate! Now, after so many years I still feel the same nostalgia and I am not the only one. Back in A8, Carnov made a mod which brought the Jaffa with weapons and armor into Rimworld. And now with A16, I once again bring them back! They are not lore friendly and I wont even make an excuss for why they may be. If you are a Stargate fan like myself, you will love the mod! Enjoy! 
 
