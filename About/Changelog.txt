@@ -1,5 +1,8 @@
 # Changelog for RimGateJaffaKree
 
+1.6.5 - Updated pawn spawning with HAR dependency requirements
+
+
 1.4.5 - Last update, added end-of-life message
 
 
