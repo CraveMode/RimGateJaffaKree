@@ -1,19 +1,19 @@
 # RimGateJaffaKree
 
 
-![Image](https://i.imgur.com/buuPQel.png)
+## Update to 1.6
 
 Update of Helixien - Xens mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2018387536
 
-- Updated requirements for HAR pawn spawn tree for 1.6 support
+Direct update to Meli's version
+https://steamcommunity.com/sharedfiles/filedetails/?id=2395671127
 
-Got this updated as I had seen it was EOL and some demand for it. Please let me know if you find any issues.
+- Updated defs required by HAR to work with 1.6
 
+Got this updated as I had seen it was EOL and there was some demand for it.
 
-![Image](https://i.imgur.com/Z4GOv8H.png)
-
-
+## Original Description
 When I was young, one of my favorite TV Show was Stargate! Now, after so many years I still feel the same nostalgia and I am not the only one. Back in A8, Carnov made a mod which brought the Jaffa with weapons and armor into Rimworld. And now with A16, I once again bring them back! They are not lore friendly and I wont even make an excuss for why they may be. If you are a Stargate fan like myself, you will love the mod! Enjoy! 
 
 Updated for the Alien Race Framework by Xen!
@@ -27,17 +27,16 @@ Features:
 - Longer Lifespan than normal humans!
 
 Credits: 
-Carnov (Textures) 
-CPT.OHU (Humanoid Alien Races) 
-Erdelf (Humanoid Alien Races modifications)
-
-![Image](https://i.imgur.com/PwoNOj4.png)
+- Carnov (Textures) 
+- CPT.OHU (Humanoid Alien Races) 
+- Erdelf (Humanoid Alien Races modifications)
 
 
+## Troubleshooting
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962 HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404 Uploader and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
