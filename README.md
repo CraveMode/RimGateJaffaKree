@@ -8,6 +8,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2018387536
 
 - Updated requirements for HAR pawn spawn tree for 1.6 support
 
+Got this updated as I had seen it was EOL and some demand for it. Please let me know if you find any issues.
+
 
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
@@ -43,5 +45,5 @@ Erdelf (Humanoid Alien Races modifications)
 
 
 
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2395671127]![Image](https://img.shields.io/github/v/release/emipa606/RimGateJaffaKree?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
+
 
